@@ -16,6 +16,7 @@ This is a simple console-based Snake game implemented in C++. The game features 
 
 - Score Tracking: The game tracks and displays the player's current and highest score.
 
+- Game Over: The game ends when the snake hits the wall or collides with its own body.
 
 ## Controls
 
